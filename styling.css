@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Finlandica:ital@1&family=Gentium+Book+Plus:ital@1&family=Splash&family=The+Nautigal:wght@700&display=swap');
 *
 {
-    scroll-behaviour:smooth;
+    scroll-behavior:smooth;
 
     margin: 0;
     padding: 0;
